@@ -1,0 +1,42 @@
+
+.main{
+    display: grid;
+    text-align: center;
+    font-display: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 21px;
+    margin-top: 5%;
+
+}
+.circle{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    font-size: 33px;
+    margin-top: 1%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(129 109 7 / 66%);
+    color: rgb(118, 99, 8);
+     margin-left: 47%;
+
+}
+
+.con{
+    height: 500px;
+    width: 100%;
+    margin-top: 20%;
+    background-color: #ff4b69;
+}
+.tri{
+    height: 0px;
+    width: 0px;
+    margin-left: 39%;
+    border-top: 45px solid #ffd000;
+    border-right: 120px solid transparent;
+    border-left: 120px solid transparent;
+    background-color: #ff4b69;
+
+}
